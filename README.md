@@ -1,8 +1,9 @@
-# Terminal Portfolio Template
+# Terminal Portfolio 
 
-This was made as a portfolio website. It is made in TailwindCSS and ReactJS. Feel free to use this as a template for your resume. All I ask is a small mention :)
+This was made as a portfolio website. It is made in TailwindCSS and NextJS. Feel free to use this as a template for your resume. All I ask is a small mention :)
 
-Deployed on -
+Deployed on -netlify 
+ayushghimire.netlify.app
 
 # Preview Image
 
